@@ -1,0 +1,8 @@
+{
+  "name": "nfgenes",
+  "version": "0.0.1",
+  "description": "NFgenes is a decentralized science (DeSci) project aiming to bring data and collaboration for human genome research to the blockchain.",
+  "main": "index.js",
+  "author": "Dr. Basi, josevelez.eth",
+  "license": "GPL-3.0-or-later"
+}
