@@ -6,7 +6,7 @@ NFgenes is a decentralized science (DeSci) project aiming to bring data and coll
 
 ## Roadmap (still under development)
 
-![NFgenes Roadmap]()
+![NFgenes Roadmap](https://github.com/joselvelez/nfgene/blob/master/roadmap.png)
 
 ## Authors
 - [@joselionlvelez](https://github.com/joselvelez)
